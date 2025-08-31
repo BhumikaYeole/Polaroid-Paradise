@@ -5,7 +5,7 @@ A creative and fun web app that allows users to generate virtual photostrips—j
 ---
 
 ## 🚀 Live Demo
-👉 [View Live](https://polaroid-ae309.web.app)  
+👉 [View Live](https://polaroid-paradise.vercel.app/)  
 
 ---
 
